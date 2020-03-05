@@ -9,4 +9,7 @@
     <ClInclude Include="..\..\src\yuv_io.h" />
     <ClInclude Include="..\..\src\cli.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
 </Project>
